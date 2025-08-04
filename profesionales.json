@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Laura Díaz",
+    "titulo": "Matrona",
+    "especialidad": "Salud materna y control prenatal",
+    "imagen": "img/matrona1.jpg",
+    "whatsapp": "#",
+    "instagram": "#",
+    "categoria": "matronas"
+  },
+  {
+    "nombre": "Carmen Soto",
+    "titulo": "Matrona",
+    "especialidad": "Embarazos de alto riesgo",
+    "imagen": "img/matrona2.jpg",
+    "whatsapp": "#",
+    "instagram": "#",
+    "categoria": "matronas"
+  },
+  {
+    "nombre": "José Pérez",
+    "titulo": "Kinesiólogo",
+    "especialidad": "Rehabilitación deportiva",
+    "imagen": "img/kine1.jpg",
+    "whatsapp": "#",
+    "instagram": "#",
+    "categoria": "kinesiologia"
+  }
+]
