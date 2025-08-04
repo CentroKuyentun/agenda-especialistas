@@ -10,9 +10,13 @@
     :root { --main-red: #b30000; }
     html, body { height: 100%; display: flex; flex-direction: column; background-color: #f8f9fa; }
     main { flex: 1 0 auto; }
-    header { background:white; text-align:center; padding:20px 0; border-bottom: 4px solid var(--main-red); }
+    header { background:white; text-align:center; padding:20px 0; }
     header img { max-height:120px; }
-
+  .separator {
+      height: 4px;
+      background: linear-gradient(to right, transparent, var(--main-red), transparent);
+      margin-bottom: 30px;
+    }
     /* Especialidad cards */
     .specialty-card {
       background-color: white;
@@ -52,6 +56,7 @@
 <header>
   <img src="img/logo.jpg" alt="Logo Centro de Salud">
 </header>
+<div class="separator"></div>
 
 <main class="container my-4">
   <section class="py-1 text-center">
