@@ -1,30 +1,20 @@
 [
   {
-    "nombre": "Laura Díaz",
+    "nombre": "Selena Aravena M.",
     "titulo": "Matrona",
-    "especialidad": "Salud materna y control prenatal",
+    "especialidad": "Climaterio/Menopausia",
+    "categoria": "matronas",
     "imagen": "img/matrona1.jpg",
-    "whatsapp": "#",
-    "instagram": "#",
-    "categoria": "matronas"
+    "whatsapp": "56959585113",
+    "instagram": "https://instagram.com/laselematrona"
   },
   {
-    "nombre": "Carmen Soto",
-    "titulo": "Matrona",
-    "especialidad": "Embarazos de alto riesgo",
-    "imagen": "img/matrona2.jpg",
-    "whatsapp": "#",
-    "instagram": "#",
-    "categoria": "matronas"
-  },
-  {
-    "nombre": "José Pérez",
+    "nombre": "José López",
     "titulo": "Kinesiólogo",
-    "especialidad": "Rehabilitación deportiva",
+    "especialidad": "Rehabilitación Física",
+    "categoria": "kinesiología",
     "imagen": "img/kine1.jpg",
-    "whatsapp": "#",
-    "instagram": "#",
-    "categoria": "kinesiología"
+    "whatsapp": "56987654321",
+    "instagram": ""
   }
 ]
-
