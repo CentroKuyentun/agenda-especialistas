@@ -9,6 +9,15 @@
     "instagram": "https://instagram.com/nutriveg.talca"
   },
   {
+    "nombre": "Yulissa Muñoz Valenzuela",
+    "titulo": "Obstetricia",
+    "especialidad": "Infecciones de transmisión sexual y planificación familiar",
+    "categoria": "matronería",
+    "imagen": "",
+    "whatsapp": "56983839126",
+    "instagram": "https://instagram.com/matrona.yuli"
+  },
+  {
     "nombre": "Selena Aravena M.",
     "titulo": "Obstetricia",
     "especialidad": "Climaterio y menopausia",
@@ -97,15 +106,6 @@
     "imagen": "",
     "whatsapp": "56981866820",
     "instagram": "https://instagram.com/katty.sn.martin"
-  },
-  {
-    "nombre": "Yulissa Muñoz Valenzuela",
-    "titulo": "Obstetricia",
-    "especialidad": "Infecciones de transmisión sexual y planificación familiar",
-    "categoria": "matronería",
-    "imagen": "",
-    "whatsapp": "56983839126",
-    "instagram": "https://instagram.com/matrona.yuli"
   },
   {
     "nombre": "Paz Belén Insulza Aravena",
@@ -225,4 +225,5 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
