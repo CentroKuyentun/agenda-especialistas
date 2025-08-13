@@ -1,20 +1,209 @@
 [
   {
+    "nombre": "Mariana Rojas Betancourt",
+    "titulo": "Nutrición y Dietética",
+    "especialidad": "Nutrición vegetariana y deportiva",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56995309562",
+    "instagram": "https://instagram.com/nutriveg.talca"
+  },
+  {
     "nombre": "Selena Aravena M.",
-    "titulo": "Matrona",
-    "especialidad": "Climaterio/Menopausia",
-    "categoria": "matronas",
-    "imagen": "img/matrona1.jpg",
-    "whatsapp": "56959585113",
+    "titulo": "Obstetricia",
+    "especialidad": "Climaterio y menopausia",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56972624674",
     "instagram": "https://instagram.com/laselematrona"
   },
   {
-    "nombre": "José López",
-    "titulo": "Kinesiólogo",
-    "especialidad": "Rehabilitación Física",
-    "categoria": "kinesiología",
-    "imagen": "img/kine1.jpg",
-    "whatsapp": "56987654321",
-    "instagram": ""
+    "nombre": "Javiera Ubilla Gonzalez",
+    "titulo": "Obstetricia",
+    "especialidad": "Lactancia, sexualidad",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56976180770",
+    "instagram": "https://instagram.com/matrona.javieraubilla"
+  },
+  {
+    "nombre": "Sergio Concha Cereceda",
+    "titulo": "Obstetricia",
+    "especialidad": "Ginecoestética y plasmapen",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56942778613",
+    "instagram": "https://instagram.com/tumatronresponde"
+  },
+  {
+    "nombre": "Martina González Salazar",
+    "titulo": "Obstetricia",
+    "especialidad": "Sexología",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "5692267436",
+    "instagram": "https://instagram.com/matronamajo"
+  },
+  {
+    "nombre": "Francisca Pinto Sepúlveda",
+    "titulo": "Psicología",
+    "especialidad": "Población infanto-juvenil y adulto",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56997730424",
+    "instagram": "https://instagram.com/psicologa.franciscapinto"
+  },
+  {
+    "nombre": "Victoria Retamal Novoa",
+    "titulo": "Psicología",
+    "especialidad": "Infanto juvenil - adulto",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56957235353",
+    "instagram": "https://instagram.com/psico.victoriaretamal"
+  },
+  {
+    "nombre": "Daniela Crisóstomo Castro",
+    "titulo": "Obstetricia",
+    "especialidad": "Ginecoestética y anticonceptivos",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "5695880252",
+    "instagram": "https://instagram.com/matrona_crisostomo"
+  },
+  {
+    "nombre": "Francisca Carrillo",
+    "titulo": "Obstetricia",
+    "especialidad": "Salud sexual y reproductiva - plasmapen",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56957071828",
+    "instagram": "https://instagram.com/saludfemme"
+  },
+  {
+    "nombre": "Valesca Catalina Pérez Loyola",
+    "titulo": "Obstetricia",
+    "especialidad": "Salud sexual y reproductiva",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56979077270",
+    "instagram": "https://instagram.com/matronavalesca"
+  },
+  {
+    "nombre": "Katerin San Martin",
+    "titulo": "Obstetricia",
+    "especialidad": "Neonatología, alto riesgo obstétrico, lactancia materna y recién nacido",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56981866820",
+    "instagram": "https://instagram.com/katty.sn.martin"
+  },
+  {
+    "nombre": "Yulissa Muñoz Valenzuela",
+    "titulo": "Obstetricia",
+    "especialidad": "Infección de transmisión sexual y planificación familiar",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56983839126",
+    "instagram": "https://instagram.com/matrona.yuli"
+  },
+  {
+    "nombre": "Paz Belén Insulza Aravena",
+    "titulo": "Obstetricia",
+    "especialidad": "Virus del papiloma humano",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56962506036",
+    "instagram": "https://instagram.com/mundo_matrona"
+  },
+  {
+    "nombre": "Gloria Araya Parra",
+    "titulo": "Nutrición y Dietética",
+    "especialidad": "Salud intestinal y antiinflamatoria",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56975652771",
+    "instagram": "https://instagram.com/nutri.gloriaaraya"
+  },
+  {
+    "nombre": "Marcia Urbina Aravena",
+    "titulo": "Obstetricia",
+    "especialidad": "ITS, VPH, ginecoestética, ESI",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56961486036",
+    "instagram": "https://instagram.com/matrona.marciaurbina"
+  },
+  {
+    "nombre": "Felipe Toro",
+    "titulo": "Nutrición y Dietética",
+    "especialidad": "Nutrición, metabolismo y salud natural",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56981931388",
+    "instagram": "https://instagram.com/nutri_felipetoro"
+  },
+  {
+    "nombre": "Dominique Schipmann",
+    "titulo": "Psicología",
+    "especialidad": "Infanto juvenil - adulto",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56923745699",
+    "instagram": "https://instagram.com/psicodominique"
+  },
+  {
+    "nombre": "Romina Troncoso",
+    "titulo": "Obstetricia",
+    "especialidad": "Ginecoestética",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56987962870",
+    "instagram": "https://instagram.com/matrona_rominatroncoso"
+  },
+  {
+    "nombre": "Barbara Espinoza",
+    "titulo": "Obstetricia",
+    "especialidad": "Parto y nacimiento en casa",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56932635291",
+    "instagram": "https://instagram.com/almadepartera"
+  },
+  {
+    "nombre": "Nelva Aravena Morales",
+    "titulo": "Fonoaudiología",
+    "especialidad": "Infanto juvenil - adulto",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56986811239",
+    "instagram": "https://instagram.com/lanelvifonoaudiologa"
+  },
+  {
+    "nombre": "Ignacia Campos",
+    "titulo": "Fonoaudiología",
+    "especialidad": "Infantil",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56950293186",
+    "instagram": "https://instagram.com/lafonoignacia"
+  },
+  {
+    "nombre": "Javiera Salazar",
+    "titulo": "Nutrición y Dietética",
+    "especialidad": "Materno - infantil",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56990987824",
+    "instagram": "https://instagram.com/gestarynutrir"
+  },
+  {
+    "nombre": "Savka Ormeño Anguita",
+    "titulo": "Obstetricia",
+    "especialidad": "Salud sexual y reproductiva",
+    "categoria": "",
+    "imagen": "",
+    "whatsapp": "56996277685",
+    "instagram": "https://instagram.com/matrona_savka"
   }
 ]
