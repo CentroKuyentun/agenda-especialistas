@@ -17,16 +17,6 @@
     "whatsapp": "56995309562",
     "instagram": "https://instagram.com/nutriveg.talca"
   },
-
-  {
-    "nombre": "Javiera Ubilla G.",
-    "titulo": "Obstetricia",
-    "especialidad": "Lactancia, sexualidad",
-    "categoria": "matronería",
-    "imagen": "img/jubilamatrona.png",
-    "whatsapp": "56976180770",
-    "instagram": "https://instagram.com/matrona.javieraubilla"
-  },
   {
     "nombre": "Sergio Concha C.",
     "titulo": "Obstetricia",
@@ -91,33 +81,6 @@
     "instagram": "https://instagram.com/matronavalesca"
   },
   {
-    "nombre": "Katerin San Martin",
-    "titulo": "Obstetricia",
-    "especialidad": "Neonatología, alto riesgo obstétrico, lactancia materna y recién nacido",
-    "categoria": "matronería",
-    "imagen": "",
-    "whatsapp": "56981866820",
-    "instagram": "https://instagram.com/katty.sn.martin"
-  },
-  {
-    "nombre": "Constanza Cancino G.",
-    "titulo": "Obstetricia",
-    "especialidad": "Salud sexual y reproductiva",
-    "categoria": "matronería",
-    "imagen": "img/conicancino.png",
-    "whatsapp": "56961589745",
-    "instagram": "https://instagram.com/matrona.constanzacg"
-  },
-  {
-    "nombre": "Paz Belén Insulza Aravena",
-    "titulo": "Obstetricia",
-    "especialidad": "Virus del papiloma humano",
-    "categoria": "matronería",
-    "imagen": "img/pazinsmat.png",
-    "whatsapp": "56962506036",
-    "instagram": "https://instagram.com/mundo_matrona"
-  },
-  {
     "nombre": "Gloria Araya Parra",
     "titulo": "Nutrición y Dietética",
     "especialidad": "Salud intestinal y antiinflamatoria",
@@ -125,15 +88,6 @@
     "imagen": "",
     "whatsapp": "56975652771",
     "instagram": "https://instagram.com/nutri.gloriaaraya"
-  },
-  {
-    "nombre": "Marcia Urbina Aravena",
-    "titulo": "Obstetricia",
-    "especialidad": "ITS, VPH, ginecoestética, ESI",
-    "categoria": "matronería",
-    "imagen": "",
-    "whatsapp": "56961486036",
-    "instagram": "https://instagram.com/matrona.marciaurbina"
   },
   {
     "nombre": "Felipe Toro",
@@ -154,24 +108,6 @@
     "instagram": "https://instagram.com/psicodominique"
   },
   {
-    "nombre": "Romina Troncoso",
-    "titulo": "Obstetricia",
-    "especialidad": "Ginecoestética",
-    "categoria": "matronería",
-    "imagen": "img/rtroncosomat.png",
-    "whatsapp": "56987962870",
-    "instagram": "https://instagram.com/matrona_rominatroncoso"
-  },
-  {
-    "nombre": "Barbara Espinoza",
-    "titulo": "Obstetricia",
-    "especialidad": "Parto y nacimiento en casa",
-    "categoria": "matronería",
-    "imagen": "img/barbaraespinozamat.jpg",
-    "whatsapp": "56932635291",
-    "instagram": "https://instagram.com/almadepartera"
-  },
-  {
     "nombre": "Nelva Aravena Morales",
     "titulo": "Fonoaudiología",
     "especialidad": "Infanto juvenil - adulto",
@@ -181,13 +117,13 @@
     "instagram": "https://instagram.com/lanelvifonoaudiologa"
   },
   {
-    "nombre": "Ignacia Campos",
+    "nombre": "Antonia Valenzuela",
     "titulo": "Fonoaudiología",
     "especialidad": "Infantil",
     "categoria": "fonoaudiología",
     "imagen": "",
-    "whatsapp": "56950293186",
-    "instagram": "https://instagram.com/lafonoignacia"
+    "whatsapp": "56982406377",
+    "instagram": "https://instagram.com/fono.antovalenzuela"
   },
   {
     "nombre": "Javiera Salazar",
@@ -219,6 +155,7 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
 
 
