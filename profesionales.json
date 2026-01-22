@@ -144,6 +144,24 @@
     "instagram": "https://instagram.com/fono.antovalenzuela"
   },
   {
+    "nombre": "Marcia Urbina",
+    "titulo": "Obstetricia",
+    "especialidad": "Ginecoestetica e ITS",
+    "categoria": "matronería",
+    "imagen": "img/",
+    "whatsapp": "56961486036",
+    "instagram": "https://instagram.com/matrona.marciaurbina"
+  },
+  {
+    "nombre": "Johana Gutierrez",
+    "titulo": "Obstetricia",
+    "especialidad": "Neurodivergencia y LGBTQIA+",
+    "categoria": "matronería",
+    "imagen": "img/",
+    "whatsapp": "56976165183",
+    "instagram": "https://instagram.com/lunamenstruante_"
+  },
+  {
     "nombre": "Javiera Salazar",
     "titulo": "Nutrición y Dietética",
     "especialidad": "Materno - infantil",
@@ -173,6 +191,7 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
 
 
