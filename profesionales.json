@@ -11,7 +11,7 @@
   {
     "nombre": "Savka Ormeño A.",
     "titulo": "Obstetricia",
-    "especialidad": "Salud Sexual - Incontinencia y Prolpasos",
+    "especialidad": "Salud Sexual - Incontinencia y Prolapsos",
     "categoria": "matronería",
     "imagen": "img/savkamat.png",
     "whatsapp": "56996277685",
@@ -40,16 +40,16 @@
     "titulo": "Obstetricia",
     "especialidad": "Ginecoestética y plasmapen",
     "categoria": "matronería",
-    "imagen": "img/sergiomat.png",
+    "imagen": "img/",
     "whatsapp": "56942778613",
     "instagram": "https://instagram.com/tumatronresponde"
   },
   {
     "nombre": "Martina González S.",
     "titulo": "Obstetricia",
-    "especialidad": "Sexología",
+    "especialidad": "Sexología y Piso Pelvico",
     "categoria": "matronería",
-    "imagen": "img/majomat.png",
+    "imagen": "img/",
     "whatsapp": "5692267436",
     "instagram": "https://instagram.com/matronamajo"
   },
@@ -90,7 +90,7 @@
     "instagram": "https://instagram.com/saludfemme"
   },
   {
-    "nombre": "Valesca Pérez Loyola",
+    "nombre": "Valesca Pérez L.",
     "titulo": "Obstetricia",
     "especialidad": "Salud sexual y reproductiva",
     "categoria": "matronería",
@@ -191,6 +191,7 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
 
 
