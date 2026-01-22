@@ -31,7 +31,7 @@
     "titulo": "Nutrición y Dietética",
     "especialidad": "Nutrición vegetariana y deportiva",
     "categoria": "nutrición",
-    "imagen": "",
+    "imagen": "img/marinutri.png",
     "whatsapp": "56995309562",
     "instagram": "https://instagram.com/nutriveg.talca"
   },
@@ -58,7 +58,7 @@
     "titulo": "Psicología Clínica",
     "especialidad": "Población infanto-juvenil y adulto",
     "categoria": "psicología",
-    "imagen": "",
+    "imagen": "img/franpsico.png",
     "whatsapp": "56966256723",
     "instagram": "https://instagram.com/psicologa.franciscapinto"
   },
@@ -121,7 +121,7 @@
     "titulo": "Psicología",
     "especialidad": "Infanto juvenil - adulto",
     "categoria": "psicología",
-    "imagen": "",
+    "imagen": "img/domi.pmg",
     "whatsapp": "56923745699",
     "instagram": "https://instagram.com/psicodominique"
   },
@@ -130,7 +130,7 @@
     "titulo": "Fonoaudiología",
     "especialidad": "Infanto juvenil - adulto",
     "categoria": "fonoaudiología",
-    "imagen": "",
+    "imagen": "img/nelvi.png",
     "whatsapp": "56986811239",
     "instagram": "https://instagram.com/lanelvifonoaudiologa"
   },
@@ -191,6 +191,7 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
 
 
