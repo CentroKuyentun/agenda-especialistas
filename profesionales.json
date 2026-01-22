@@ -31,7 +31,7 @@
     "titulo": "Nutrición y Dietética",
     "especialidad": "Nutrición vegetariana y deportiva",
     "categoria": "nutrición",
-    "imagen": "img/marinutri.png",
+    "imagen": "img/mariana.png",
     "whatsapp": "56995309562",
     "instagram": "https://instagram.com/nutriveg.talca"
   },
@@ -67,7 +67,7 @@
     "titulo": "Psicología",
     "especialidad": "Infanto juvenil - adulto",
     "categoria": "psicología",
-    "imagen": "",
+    "imagen": "img/viqui.png",
     "whatsapp": "56957235353",
     "instagram": "https://instagram.com/psico.victoriaretamal"
   },
@@ -112,7 +112,7 @@
     "titulo": "Nutrición y Dietética",
     "especialidad": "Nutrición, metabolismo y salud natural",
     "categoria": "nutrición",
-    "imagen": "",
+    "imagen": "img/felipe.png",
     "whatsapp": "56981931388",
     "instagram": "https://instagram.com/nutri_felipetoro"
   },
@@ -121,7 +121,7 @@
     "titulo": "Psicología",
     "especialidad": "Infanto juvenil - adulto",
     "categoria": "psicología",
-    "imagen": "img/domi.pmg",
+    "imagen": "img/domi.png",
     "whatsapp": "56923745699",
     "instagram": "https://instagram.com/psicodominique"
   },
@@ -166,7 +166,7 @@
     "titulo": "Nutrición y Dietética",
     "especialidad": "Materno - infantil",
     "categoria": "nutrición",
-    "imagen": "",
+    "imagen": "img/gestar.png",
     "whatsapp": "56990987824",
     "instagram": "https://instagram.com/gestarynutrir"
   },
@@ -191,6 +191,7 @@
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
 ]
+
 
 
 
