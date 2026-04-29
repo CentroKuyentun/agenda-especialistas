@@ -8,7 +8,7 @@
     "whatsapp": "56926277432",
     "instagram": "https://instagram.com/matrona.yuli"
   },
-  {
+    {
     "nombre": "Savka Ormeño A.",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual - Incontinencia y Prolapsos",
@@ -179,9 +179,16 @@
     "whatsapp": "56990987824",
     "instagram": "https://instagram.com/gestarynutrir"
   },
-
-  
-  {
+ {
+    "nombre": "Tabita Castillo",
+    "titulo": "Obstetricia",
+    "especialidad": "Salud femenina con efoque integral",
+    "categoria": "matronería",
+    "imagen": "img/.png",
+    "whatsapp": "56926277432",
+    "instagram": "https://instagram.com/matronatabita"
+  },
+    {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
