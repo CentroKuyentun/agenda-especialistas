@@ -182,7 +182,7 @@
  {
     "nombre": "Tabita Castillo",
     "titulo": "Obstetricia",
-    "especialidad": "Salud femenina con efoque integral",
+    "especialidad": "Salud femenina con enfoque integral",
     "categoria": "matronería",
     "imagen": "img/.png",
     "whatsapp": "56926277432",
@@ -206,6 +206,15 @@
     "whatsapp": "56993537870",
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
+   {
+    "nombre": "Jeniffer Ibañez",
+    "titulo": "Obstetricia",
+    "especialidad": "Anticoncepcion",
+    "categoria": "matronería",
+    "imagen": "img/.png",
+    "whatsapp": "56979855982",
+    "instagram": "https://instagram.com/matronadelmaule"
+  },
 ]
 
 
