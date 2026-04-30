@@ -1,5 +1,4 @@
 [
-  
   {
     "nombre": "Yulissa Muñoz V.",
     "titulo": "Obstetricia",
@@ -9,7 +8,7 @@
     "whatsapp": "56926277432",
     "instagram": "https://instagram.com/matrona.yuli"
   },
-  {
+    {
     "nombre": "Savka Ormeño A.",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual - Incontinencia y Prolapsos",
@@ -86,7 +85,7 @@
     "titulo": "Nutrición y Dietética",
     "especialidad": "Psicnutricion, TDAH y TCA",
     "categoria": "nutrición",
-    "imagen": "img/",
+    "imagen": "img/.png",
     "whatsapp": "56965580113",
     "instagram": "https://instagram.com/nutricioncon.dani"
   },
@@ -167,7 +166,7 @@
     "titulo": "Obstetricia",
     "especialidad": "Neurodivergencia y LGBTQIA+",
     "categoria": "matronería",
-    "imagen": "img",
+    "imagen": "img/jomat.png",
     "whatsapp": "56976165183",
     "instagram": "https://instagram.com/lunamenstruante_"
   },
@@ -180,16 +179,16 @@
     "whatsapp": "56990987824",
     "instagram": "https://instagram.com/gestarynutrir"
   },
-  {
+ {
     "nombre": "Tabita Castillo",
     "titulo": "Obstetricia",
-    "especialidad": "Salud femenina con enfoque integral",
+    "especialidad": "Salud femenina con efoque integral",
     "categoria": "matronería",
-    "imagen": "i",
+    "imagen": "img/.png",
     "whatsapp": "56926277432",
     "instagram": "https://instagram.com/matronatabita"
   },
-  {
+    {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
@@ -207,17 +206,7 @@
     "whatsapp": "56993537870",
     "instagram": "https://instagram.com/kine_valeria_roteli"
   }
-   {
-    "nombre": "Jeniffer Ibañez",
-    "titulo": "Obstetricia",
-    "especialidad": "Anticoncepcion",
-    "categoria": "matronería",
-    "imagen": "im",
-    "whatsapp": "56979855982",
-    "instagram": "https://instagram.com/matronadelmaule"
-  },
 ]
-
 
 
 
