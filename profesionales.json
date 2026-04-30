@@ -8,7 +8,7 @@
     "whatsapp": "56926277432",
     "instagram": "https://instagram.com/matrona.yuli"
   },
-    {
+  {
     "nombre": "Savka Ormeño A.",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual - Incontinencia y Prolapsos",
@@ -79,15 +79,6 @@
     "imagen": "img/danielacrisostomomat.png",
     "whatsapp": "5695880252",
     "instagram": "https://instagram.com/matrona_crisostomo"
-  },
-  {
-    "nombre": "Daniela Zamorano.",
-    "titulo": "Nutrición y Dietética",
-    "especialidad": "Psicnutricion, TDAH y TCA",
-    "categoria": "nutrición",
-    "imagen": "img/.png",
-    "whatsapp": "56965580113",
-    "instagram": "https://instagram.com/nutricioncon.dani"
   },
   {
     "nombre": "Francisca Carrillo",
@@ -179,16 +170,9 @@
     "whatsapp": "56990987824",
     "instagram": "https://instagram.com/gestarynutrir"
   },
- {
-    "nombre": "Tabita Castillo",
-    "titulo": "Obstetricia",
-    "especialidad": "Salud femenina con efoque integral",
-    "categoria": "matronería",
-    "imagen": "img/.png",
-    "whatsapp": "56926277432",
-    "instagram": "https://instagram.com/matronatabita"
-  },
-    {
+
+  
+  {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
