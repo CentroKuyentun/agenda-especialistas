@@ -47,11 +47,11 @@
   {
     "nombre": "Martina Gonzalez",
     "titulo": "Obstetricia",
-    "especialidad": "Sexologia",
+    "especialidad": "Sexologa",
     "categoria": "matronería",
-    "imagen": "",
+    "imagen": "img/majo.png",
     "whatsapp": "56992267436",
-    "instagram": "https://instagram.com/matronamajo"
+    "instagram": "https://instagram.com/majo"
   },
   {
     "nombre": "Francisca Carrillo",
@@ -81,15 +81,6 @@
     "instagram": "https://instagram.com/nutri.gloriaaraya"
   },
   {
-    "nombre": "Paz Inzulza",
-    "titulo": "Obstetricia",
-    "especialidad": "VPH",
-    "categoria": "matronería",
-    "imagen": "",
-    "whatsapp": "56962506036",
-    "instagram": "https://instagram.com/matrona_paz_inzulza"
-  },
-  {
     "nombre": "Dominique Schipmann",
     "titulo": "Psicología",
     "especialidad": "Infanto juvenil - adulto",
@@ -98,13 +89,13 @@
     "whatsapp": "56923745699",
     "instagram": "https://instagram.com/psicodominique"
   },
-   {
+    {
     "nombre": "Ignacia Campos",
     "titulo": "Fonoaudiología",
     "especialidad": "Infantil",
     "categoria": "fonoaudiología",
-    "imagen": "img/",
-    "whatsapp": "56950293186",
+    "imagen": "img/.png",
+    "whatsapp": "",
     "instagram": "https://instagram.com/fonobla.cl"
   },
   {
@@ -143,7 +134,7 @@
     "whatsapp": "56979855982",
     "instagram": "https://instagram.com/matronadelmaule"
   },
-    {
+  {
     "nombre": "Alejandra Lira",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual y Reproductiva - Climaterio",
@@ -152,26 +143,16 @@
     "whatsapp": "569963577837",
     "instagram": "https://instagram.com/ale_matronarojita"
   },
- {
-    "nombre": "Daniela Zamorano",
-    "titulo": "Nutrición y Dietética",
-    "especialidad": "Psicnutricion, TDAH yTCA",
-    "categoria": "nutrición",
-    "imagen": "img/DANI.png",
-    "whatsapp": "56965580113",
-    "instagram": "https://instagram.com/nutricioncon.dani"
-  },
-  {
+   {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
     "categoria": "kinesiología",
     "imagen": "",
     "whatsapp": "56962161055",
-    "instagram": "https://instagram.com/elsebakine"
-  }
+    "instagram": ""
+  },
  ]
-
 
 
 
