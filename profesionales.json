@@ -45,31 +45,13 @@
     "instagram": "https://instagram.com/tumatronresponde"
   },
   {
-    "nombre": ".",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
+    "nombre": "Martina Gonzalez",
+    "titulo": "Obstetricia",
+    "especialidad": "Sexologia",
+    "categoria": "matronería",
     "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
+    "whatsapp": "56992267436",
+    "instagram": "https://instagram.com/matronamajo"
   },
   {
     "nombre": "Francisca Carrillo",
@@ -99,13 +81,13 @@
     "instagram": "https://instagram.com/nutri.gloriaaraya"
   },
   {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
+    "nombre": "Paz Inzulza",
+    "titulo": "Obstetricia",
+    "especialidad": "VPH",
+    "categoria": "matronería",
     "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
+    "whatsapp": "56962506036",
+    "instagram": "https://instagram.com/matrona_paz_inzulza"
   },
   {
     "nombre": "Dominique Schipmann",
@@ -116,16 +98,7 @@
     "whatsapp": "56923745699",
     "instagram": "https://instagram.com/psicodominique"
   },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
+   {
     "nombre": "Ignacia Campos",
     "titulo": "Fonoaudiología",
     "especialidad": "Infantil",
@@ -170,16 +143,7 @@
     "whatsapp": "56979855982",
     "instagram": "https://instagram.com/matronadelmaule"
   },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
+    {
     "nombre": "Alejandra Lira",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual y Reproductiva - Climaterio",
@@ -198,35 +162,15 @@
     "instagram": "https://instagram.com/nutricioncon.dani"
   },
   {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-
-
-  {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
     "categoria": "kinesiología",
     "imagen": "",
     "whatsapp": "56962161055",
-    "instagram": ""
+    "instagram": "https://instagram.com/elsebakine"
   },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  }
-]
+ ]
 
 
 
