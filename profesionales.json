@@ -45,14 +45,33 @@
     "instagram": "https://instagram.com/tumatronresponde"
   },
   {
-    "nombre": "Martina Gonzalez",
-    "titulo": "Matrona",
-    "especialidad": "Sexologia y piso pelvio",
-    "categoria": "matronería",
-    "imagen": "img/",
-    "whatsapp": "56992267436",
-    "instagram": "https://instagram.com/matronamajo"
+    "nombre": "Francisca Pinto S.",
+    "titulo": "Psicología Clínica",
+    "especialidad": "Población infanto-juvenil y adulto",
+    "categoria": "psicología",
+    "imagen": "img/franpsico.png",
+    "whatsapp": "56966256723",
+    "instagram": "https://instagram.com/psicologa.franciscapinto"
   },
+  {
+    "nombre": "Victoria Retamal N.",
+    "titulo": "Psicología",
+    "especialidad": "Infanto juvenil - adulto",
+    "categoria": "psicología",
+    "imagen": "img/viqui.png",
+    "whatsapp": "56957235353",
+    "instagram": "https://instagram.com/psico.victoriaretamal"
+  },
+  {
+    "nombre": "Daniela Crisóstomo",
+    "titulo": "Obstetricia",
+    "especialidad": "Ginecoestética y anticonceptivos",
+    "categoria": "matronería",
+    "imagen": "img/danielacrisostomomat.png",
+    "whatsapp": "5695880252",
+    "instagram": "https://instagram.com/matrona_crisostomo"
+  },
+  {
     {
     "nombre": "Francisca Carrillo",
     "titulo": "Obstetricia",
@@ -81,6 +100,15 @@
     "instagram": "https://instagram.com/nutri.gloriaaraya"
   },
   {
+    "nombre": "Felipe Toro",
+    "titulo": "Nutrición y Dietética",
+    "especialidad": "Nutrición, metabolismo y salud natural",
+    "categoria": "nutrición",
+    "imagen": "img/felipe.png",
+    "whatsapp": "56981931388",
+    "instagram": "https://instagram.com/nutri_felipetoro"
+  },
+  {
     "nombre": "Dominique Schipmann",
     "titulo": "Psicología",
     "especialidad": "Infanto juvenil - adulto",
@@ -90,13 +118,13 @@
     "instagram": "https://instagram.com/psicodominique"
   },
   {
-    "nombre": "Ignacia Campos",
+    "nombre": "Nelva Aravena",
     "titulo": "Fonoaudiología",
     "especialidad": "Infanto juvenil - adulto",
     "categoria": "fonoaudiología",
-    "imagen": "img/png",
-    "whatsapp": "56950293186",
-    "instagram": "https://instagram.com/lafonoigna"
+    "imagen": "img/nelvi.png",
+    "whatsapp": "56986811239",
+    "instagram": "https://instagram.com/lanelvifonoaudiologa"
   },
   {
     "nombre": "Antonia Valenzuela",
@@ -143,7 +171,16 @@
     "whatsapp": "56979855982",
     "instagram": "https://instagram.com/matronadelmaule"
   },
-   {
+  {
+    "nombre": "Margarita Sepulveda",
+    "titulo": "Obstetricia",
+    "especialidad": "Salud Sexual y ginecologica - GES 86",
+    "categoria": "matronería",
+    "imagen": "img/margarita.png",
+    "whatsapp": "56997691724",
+    "instagram": "https://instagram.com/matronamargarita"
+  },
+  {
     "nombre": "Alejandra Lira",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual y Reproductiva - Climaterio",
@@ -153,13 +190,13 @@
     "instagram": "https://instagram.com/ale_matronarojita"
   },
  {
-    "nombre": "Valeria Castillo",
+    "nombre": "Daniela Zamorano",
     "titulo": "Nutrición y Dietética",
-    "especialidad": "Alimentacion equilibrada",
+    "especialidad": "Psicnutricion, TDAH yTCA",
     "categoria": "nutrición",
-    "imagen": "img/ng",
-    "whatsapp": "56944788771",
-    "instagram": "https://instagram.com/nutricare.vale"
+    "imagen": "img/DANI.png",
+    "whatsapp": "56965580113",
+    "instagram": "https://instagram.com/nutricioncon.dani"
   },
   {
     "nombre": "Javiera Salazar",
@@ -170,6 +207,8 @@
     "whatsapp": "56990987824",
     "instagram": "https://instagram.com/gestarynutrir"
   },
+
+
   {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
@@ -187,18 +226,8 @@
     "imagen": "",
     "whatsapp": "56993537870",
     "instagram": "https://instagram.com/kine_valeria_roteli"
-  },
+  }
 ]
-
-
-
-
-
-
-
-
-
-
 
 
 
