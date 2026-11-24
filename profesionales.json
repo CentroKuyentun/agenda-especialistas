@@ -45,24 +45,6 @@
     "instagram": "https://instagram.com/tumatronresponde"
   },
   {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
     "nombre": "Martina Gonzalez",
     "titulo": "Obstetricia",
     "especialidad": "Sexologia",
@@ -97,15 +79,6 @@
     "imagen": "img/gloria.png",
     "whatsapp": "56975652771",
     "instagram": "https://instagram.com/nutri.gloriaaraya"
-  },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
   },
   {
     "nombre": "Dominique Schipmann",
@@ -171,15 +144,6 @@
     "instagram": "https://instagram.com/matronadelmaule"
   },
   {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-  {
     "nombre": "Alejandra Lira",
     "titulo": "Obstetricia",
     "especialidad": "Salud Sexual y Reproductiva - Climaterio",
@@ -198,35 +162,15 @@
     "instagram": "https://instagram.com/nutricioncon.dani"
   },
   {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  },
-
-
-  {
     "nombre": "Sebastián Rojas W.",
     "titulo": "Kinesiología",
     "especialidad": "Rehabilitación deportiva",
     "categoria": "kinesiología",
     "imagen": "",
     "whatsapp": "56962161055",
-    "instagram": ""
+    "instagram": "https://instagram.com/elsebakine"
   },
-  {
-    "nombre": "",
-    "titulo": "",
-    "especialidad": "",
-    "categoria": "",
-    "imagen": "",
-    "whatsapp": "",
-    "instagram": ""
-  }
-]
+  ]
 
 
 
